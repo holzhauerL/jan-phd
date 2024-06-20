@@ -1,0 +1,3226 @@
+Log file created at 2024-06-20 19:43:54.
+
+2024-06-20 19:43:54
+Function: print_init
+--------------------------------------------------------------------------------
+OpenAIClient created at 2024-06-20 19:43:54 with the following parameters:
+Model: text-embedding-3-large
+Estimation mode: True
+Output estimate: 0
+Safety factor: 1.1
+Temperature: 0.7
+Cost limit single call: US$ 0.5
+--------------------------------------------------------------------------------
+
+2024-06-20 19:52:09
+Function: batch_api_call_
+--------------------------------------------------------------------------------
+
+Estimating resources for the API calls...
+
+
+Cost estimate of $0.2442 is within the defined limit for the batch of $0.5.
+
+--------------------------------------------------------------------------------
+
+2024-06-20 19:54:07
+Function: batch_api_call_
+--------------------------------------------------------------------------------
+
+Estimating resources for the API calls...
+
+
+Cost estimate of $0.2442 is within the defined limit for the batch of $0.5.
+
+2024-06-20 19:54:58
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Entrepreneurship is suggested to be one of the key sources which promote economic growth and develo ... [2661 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name               Estimation
+---------------  ------------
+Input tokens     501
+Output tokens      0
+Input cost [$]     7.1643e-05
+Output cost [$]    0
+Total cost [$]     7.1643e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 19:54:59
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Entrepreneurship is suggested to be one of the key sources which promote economic growth and develo ... [2661 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     495               501            0.99
+Output tokens      0                 0            0
+Input cost [$]     7.0785e-05        7.1643e-05   0.99
+Output cost [$]    0                 0            0
+Total cost [$]     7.0785e-05        7.1643e-05   0.99
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)         V/E
+-----------------  ------------  ---------------------  -----
+Input costs [$]      0.00235578  0.0024415820000000007  0.96
+Output costs [$]     0           0.0                    0
+Total costs [$]      0.00235578  0.0024415820000000007  0.96
+Calls              100           -                      -
+Cost per call [$]    0           -                      -
+--------------------------------------------------------------------------------
+
+2024-06-20 19:55:52
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "A performance measurement system for academic entrepreneurship: a case study. "
+Name               Estimation
+---------------  ------------
+Input tokens       19
+Output tokens       0
+Input cost [$]      2.717e-06
+Output cost [$]     0
+Total cost [$]      2.717e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 19:55:52
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "A performance measurement system for academic entrepreneurship: a case study. "
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      13                19           0.68
+Output tokens      0                 0           0
+Input cost [$]     1.859e-06         2.717e-06   0.68
+Output cost [$]    0                 0           0
+Total cost [$]     1.859e-06         2.717e-06   0.68
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)        V/E
+-----------------  ------------  --------------------  -----
+Input costs [$]      0.00476033  0.004931927000000002  0.97
+Output costs [$]     0           0.0                   0
+Total costs [$]      0.00476033  0.004931927000000002  0.97
+Calls              200           -                     -
+Cost per call [$]    0           -                     -
+--------------------------------------------------------------------------------
+
+2024-06-20 19:56:43
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The Influence of Eco-Preneurship Dimensions towards Students' New Business at Telkom University in Indonesia. IL- 3 Diagrams, 4 Charts "
+Name               Estimation
+---------------  ------------
+Input tokens       39
+Output tokens       0
+Input cost [$]      5.577e-06
+Output cost [$]     0
+Total cost [$]      5.577e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 19:56:44
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The Influence of Eco-Preneurship Dimensions towards Students' New Business at Telkom University in Indonesia. IL- 3 Diagrams, 4 Charts "
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      33                39           0.85
+Output tokens      0                 0           0
+Input cost [$]     4.719e-06         5.577e-06   0.85
+Output cost [$]    0                 0           0
+Total cost [$]     4.719e-06         5.577e-06   0.85
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)        V/E
+-----------------  ------------  --------------------  -----
+Input costs [$]      0.00809308  0.008350485000000003  0.97
+Output costs [$]     0           0.0                   0
+Total costs [$]      0.00809308  0.008350485000000003  0.97
+Calls              300           -                     -
+Cost per call [$]    0           -                     -
+--------------------------------------------------------------------------------
+
+2024-06-20 19:57:33
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Learning through culinary tourism and developing a culinary tourism education strategy"
+Name               Estimation
+---------------  ------------
+Input tokens       17
+Output tokens       0
+Input cost [$]      2.431e-06
+Output cost [$]     0
+Total cost [$]      2.431e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 19:57:34
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Learning through culinary tourism and developing a culinary tourism education strategy"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      11                17           0.65
+Output tokens      0                 0           0
+Input cost [$]     1.573e-06         2.431e-06   0.65
+Output cost [$]    0                 0           0
+Total cost [$]     1.573e-06         2.431e-06   0.65
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)        V/E
+-----------------  -----------  --------------------  -----
+Input costs [$]      0.0112751  0.011618321000000008  0.97
+Output costs [$]     0          0.0                   0
+Total costs [$]      0.0112751  0.011618321000000008  0.97
+Calls              400          -                     -
+Cost per call [$]    0          -                     -
+--------------------------------------------------------------------------------
+
+2024-06-20 19:58:26
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Scaling Social Entrepreneurial Impact. IL- 1 Diagram, 1 Chart "
+Name               Estimation
+---------------  ------------
+Input tokens       22
+Output tokens       0
+Input cost [$]      3.146e-06
+Output cost [$]     0
+Total cost [$]      3.146e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 19:58:27
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Scaling Social Entrepreneurial Impact. IL- 1 Diagram, 1 Chart "
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      16                22           0.73
+Output tokens      0                 0           0
+Input cost [$]     2.288e-06         3.146e-06   0.73
+Output cost [$]    0                 0           0
+Total cost [$]     2.288e-06         3.146e-06   0.73
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)        V/E
+-----------------  -----------  --------------------  -----
+Input costs [$]      0.0142684  0.014697397000000018  0.97
+Output costs [$]     0          0.0                   0
+Total costs [$]      0.0142684  0.014697397000000018  0.97
+Calls              500          -                     -
+Cost per call [$]    0          -                     -
+--------------------------------------------------------------------------------
+
+2024-06-20 19:59:23
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "A REGIONAL ANALYSIS OF EMPLOYMENT PROMOTION POLICIES IN THE DIFFERENT COUNTRIES OF THE EUROZONE AND ITS EVOLUTION THROUGHOUT THE ECONOMIC CRISIS"
+Name               Estimation
+---------------  ------------
+Input tokens       44
+Output tokens       0
+Input cost [$]      6.292e-06
+Output cost [$]     0
+Total cost [$]      6.292e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 19:59:24
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "A REGIONAL ANALYSIS OF EMPLOYMENT PROMOTION POLICIES IN THE DIFFERENT COUNTRIES OF THE EUROZONE AND ITS EVOLUTION THROUGHOUT THE ECONOMIC CRISIS"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      38                44           0.86
+Output tokens      0                 0           0
+Input cost [$]     5.434e-06         6.292e-06   0.86
+Output cost [$]    0                 0           0
+Total cost [$]     5.434e-06         6.292e-06   0.86
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)        V/E
+-----------------  -----------  --------------------  -----
+Input costs [$]      0.0173904  0.017905173000000014  0.97
+Output costs [$]     0          0.0                   0
+Total costs [$]      0.0173904  0.017905173000000014  0.97
+Calls              600          -                     -
+Cost per call [$]    0          -                     -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:00:18
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The main wealth of the country, its main strategic resource that can ensure political, economic, en ... [2625 more characters] ... ethodological, and applied problems, is proposed."
+Name               Estimation
+---------------  ------------
+Input tokens     481
+Output tokens      0
+Input cost [$]     6.8783e-05
+Output cost [$]    0
+Total cost [$]     6.8783e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:00:18
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The main wealth of the country, its main strategic resource that can ensure political, economic, en ... [2625 more characters] ... ethodological, and applied problems, is proposed."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     475               481            0.99
+Output tokens      0                 0            0
+Input cost [$]     6.7925e-05        6.8783e-05   0.99
+Output cost [$]    0                 0            0
+Total cost [$]     6.7925e-05        6.8783e-05   0.99
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)        V/E
+-----------------  -----------  --------------------  -----
+Input costs [$]      0.0211333  0.021733855000000007  0.97
+Output costs [$]     0          0.0                   0
+Total costs [$]      0.0211333  0.021733855000000007  0.97
+Calls              700          -                     -
+Cost per call [$]    0          -                     -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:01:09
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The world's oceans and estuaries offer enormous potential to meet the nation's growing demand for e ... [4207 more characters] ... on State University, and Pacific Energy Ventures."
+Name                Estimation
+---------------  -------------
+Input tokens     763
+Output tokens      0
+Input cost [$]     0.000109109
+Output cost [$]    0
+Total cost [$]     0.000109109
+--------------------------------------------------------------------------------
+
+2024-06-20 20:01:09
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The world's oceans and estuaries offer enormous potential to meet the nation's growing demand for e ... [4207 more characters] ... on State University, and Pacific Energy Ventures."
+Name                 Value (V)    Estimation (E)    V/E
+---------------  -------------  ----------------  -----
+Input tokens     757               763             0.99
+Output tokens      0                 0             0
+Input cost [$]     0.000108251       0.000109109   0.99
+Output cost [$]    0                 0             0
+Total cost [$]     0.000108251       0.000109109   0.99
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)    V/E
+-----------------  -----------  ----------------  -----
+Input costs [$]      0.0244634  0.025149839       0.97
+Output costs [$]     0          0.0               0
+Total costs [$]      0.0244634  0.025149839       0.97
+Calls              800          -                 -
+Cost per call [$]    0          -                 -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:02:00
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Global sustainability and the creative destruction of industries"
+Name               Estimation
+---------------  ------------
+Input tokens       14
+Output tokens       0
+Input cost [$]      2.002e-06
+Output cost [$]     0
+Total cost [$]      2.002e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:02:00
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Global sustainability and the creative destruction of industries"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens       8                14           0.57
+Output tokens      0                 0           0
+Input cost [$]     1.144e-06         2.002e-06   0.57
+Output cost [$]    0                 0           0
+Total cost [$]     1.144e-06         2.002e-06   0.57
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)    V/E
+-----------------  -----------  ----------------  -----
+Input costs [$]      0.0273782  0.028150408       0.97
+Output costs [$]     0          0.0               0
+Total costs [$]      0.0273782  0.028150408       0.97
+Calls              900          -                 -
+Cost per call [$]    0          -                 -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:02:53
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "ENTREPRENEURSHIP EDUCATION IN LIFE LONG LEARNING"
+Name               Estimation
+---------------  ------------
+Input tokens       19
+Output tokens       0
+Input cost [$]      2.717e-06
+Output cost [$]     0
+Total cost [$]      2.717e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:02:54
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "ENTREPRENEURSHIP EDUCATION IN LIFE LONG LEARNING"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      13                19           0.68
+Output tokens      0                 0           0
+Input cost [$]     1.859e-06         2.717e-06   0.68
+Output cost [$]    0                 0           0
+Total cost [$]     1.859e-06         2.717e-06   0.68
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)        V/E
+-----------------  ------------  --------------------  -----
+Input costs [$]       0.0301403  0.030998253000000014  0.97
+Output costs [$]      0          0.0                   0
+Total costs [$]       0.0301403  0.030998253000000014  0.97
+Calls              1000          -                     -
+Cost per call [$]     0          -                     -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:03:47
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Objectives: Women's entrepreneurship is expanding around the world, and many theories and statistic ... [2736 more characters] ... ield that is under-reported and under-researched."
+Name               Estimation
+---------------  ------------
+Input tokens     503
+Output tokens      0
+Input cost [$]     7.1929e-05
+Output cost [$]    0
+Total cost [$]     7.1929e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:03:47
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Objectives: Women's entrepreneurship is expanding around the world, and many theories and statistic ... [2736 more characters] ... ield that is under-reported and under-researched."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     497               503            0.99
+Output tokens      0                 0            0
+Input cost [$]     7.1071e-05        7.1929e-05   0.99
+Output cost [$]    0                 0            0
+Total cost [$]     7.1071e-05        7.1929e-05   0.99
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0331811  0.03412494800000001  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0331811  0.03412494800000001  0.97
+Calls              1100          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:04:43
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "MEASURING ENTREPRENEURSHIP OVER TIME"
+Name               Estimation
+---------------  ------------
+Input tokens       17
+Output tokens       0
+Input cost [$]      2.431e-06
+Output cost [$]     0
+Total cost [$]      2.431e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:04:43
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "MEASURING ENTREPRENEURSHIP OVER TIME"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      11                17           0.65
+Output tokens      0                 0           0
+Input cost [$]     1.573e-06         2.431e-06   0.65
+Output cost [$]    0                 0           0
+Total cost [$]     1.573e-06         2.431e-06   0.65
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0358002  0.03682979300000003  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0358002  0.03682979300000003  0.97
+Calls              1200          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:05:41
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Purpose: Against the backdrop of a worldwide decline in entry into agricultural courses, we investi ... [1751 more characters] ... the application of the SDT theory in a new field."
+Name               Estimation
+---------------  ------------
+Input tokens     354
+Output tokens      0
+Input cost [$]     5.0622e-05
+Output cost [$]    0
+Total cost [$]     5.0622e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:05:41
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Purpose: Against the backdrop of a worldwide decline in entry into agricultural courses, we investi ... [1751 more characters] ... the application of the SDT theory in a new field."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     348               354            0.98
+Output tokens      0                 0            0
+Input cost [$]     4.9764e-05        5.0622e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     4.9764e-05        5.0622e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0385308  0.03964617800000002  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0385308  0.03964617800000002  0.97
+Calls              1300          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:06:37
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The Italian housing model relies on a high rate of privately owned houses. In comparison, few dwell ... [1611 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name               Estimation
+---------------  ------------
+Input tokens     334
+Output tokens      0
+Input cost [$]     4.7762e-05
+Output cost [$]    0
+Total cost [$]     4.7762e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:06:38
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The Italian housing model relies on a high rate of privately owned houses. In comparison, few dwell ... [1611 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     328               334            0.98
+Output tokens      0                 0            0
+Input cost [$]     4.6904e-05        4.7762e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     4.6904e-05        4.7762e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0419362  0.04313738000000001  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0419362  0.04313738000000001  0.97
+Calls              1400          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:07:34
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The quality of the sustainability plans of 11 state departments of transportation (DOTs) is systema ... [1173 more characters] ... the quality of transportation planning documents."
+Name               Estimation
+---------------  ------------
+Input tokens     217
+Output tokens      0
+Input cost [$]     3.1031e-05
+Output cost [$]    0
+Total cost [$]     3.1031e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:07:34
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The quality of the sustainability plans of 11 state departments of transportation (DOTs) is systema ... [1173 more characters] ... the quality of transportation planning documents."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     211               217            0.97
+Output tokens      0                 0            0
+Input cost [$]     3.0173e-05        3.1031e-05   0.97
+Output cost [$]    0                 0            0
+Total cost [$]     3.0173e-05        3.1031e-05   0.97
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)        V/E
+-----------------  ------------  --------------------  -----
+Input costs [$]       0.0449385  0.046225465000000014  0.97
+Output costs [$]      0          0.0                   0
+Total costs [$]       0.0449385  0.046225465000000014  0.97
+Calls              1500          -                     -
+Cost per call [$]     0          -                     -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:08:26
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Entrepreneurship promotion policies and urban carbon emission efficiency: does environmental concerns matter?"
+Name               Estimation
+---------------  ------------
+Input tokens       22
+Output tokens       0
+Input cost [$]      3.146e-06
+Output cost [$]     0
+Total cost [$]      3.146e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:08:27
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Entrepreneurship promotion policies and urban carbon emission efficiency: does environmental concerns matter?"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      16                22           0.73
+Output tokens      0                 0           0
+Input cost [$]     2.288e-06         3.146e-06   0.73
+Output cost [$]    0                 0           0
+Total cost [$]     2.288e-06         3.146e-06   0.73
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0480667  0.04943953300000003  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0480667  0.04943953300000003  0.97
+Calls              1600          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:09:19
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Identification of Factors Influencing the Performance of Small Medium Enterprises (SMEs)"
+Name               Estimation
+---------------  ------------
+Input tokens       22
+Output tokens       0
+Input cost [$]      3.146e-06
+Output cost [$]     0
+Total cost [$]      3.146e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:09:19
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Identification of Factors Influencing the Performance of Small Medium Enterprises (SMEs)"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      16                22           0.73
+Output tokens      0                 0           0
+Input cost [$]     2.288e-06         3.146e-06   0.73
+Output cost [$]    0                 0           0
+Total cost [$]     2.288e-06         3.146e-06   0.73
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0506718  0.05213036400000005  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0506718  0.05213036400000005  0.97
+Calls              1700          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:10:09
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The ever escalating pace of civilizational changes in the social and economic fields, as well as in ... [1078 more characters] ... mpetences and qualifications sought by employers."
+Name               Estimation
+---------------  ------------
+Input tokens     215
+Output tokens      0
+Input cost [$]     3.0745e-05
+Output cost [$]    0
+Total cost [$]     3.0745e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:10:10
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The ever escalating pace of civilizational changes in the social and economic fields, as well as in ... [1078 more characters] ... mpetences and qualifications sought by employers."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     209               215            0.97
+Output tokens      0                 0            0
+Input cost [$]     2.9887e-05        3.0745e-05   0.97
+Output cost [$]    0                 0            0
+Total cost [$]     2.9887e-05        3.0745e-05   0.97
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0535072  0.05505156800000002  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0535072  0.05505156800000002  0.97
+Calls              1800          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:10:59
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "This article, the result of theoretical reflection and empirical research, analyses the phenomenon  ... [3609 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Estimation
+---------------  -------------
+Input tokens     841
+Output tokens      0
+Input cost [$]     0.000120263
+Output cost [$]    0
+Total cost [$]     0.000120263
+--------------------------------------------------------------------------------
+
+2024-06-20 20:10:59
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "This article, the result of theoretical reflection and empirical research, analyses the phenomenon  ... [3609 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                 Value (V)    Estimation (E)    V/E
+---------------  -------------  ----------------  -----
+Input tokens     835               841             0.99
+Output tokens      0                 0             0
+Input cost [$]     0.000119405       0.000120263   0.99
+Output cost [$]    0                 0             0
+Total cost [$]     0.000119405       0.000120263   0.99
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0565834  0.05821358400000005  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0565834  0.05821358400000005  0.97
+Calls              1900          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:11:49
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The malleability of international entrepreneurial cognitions: a natural quasi-experimental study on voluntary and involuntary shocks"
+Name               Estimation
+---------------  ------------
+Input tokens       27
+Output tokens       0
+Input cost [$]      3.861e-06
+Output cost [$]     0
+Total cost [$]      3.861e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:11:50
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The malleability of international entrepreneurial cognitions: a natural quasi-experimental study on voluntary and involuntary shocks"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      21                27           0.78
+Output tokens      0                 0           0
+Input cost [$]     3.003e-06         3.861e-06   0.78
+Output cost [$]    0                 0           0
+Total cost [$]     3.003e-06         3.861e-06   0.78
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.058909  0.06062499300000007  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.058909  0.06062499300000007  0.97
+Calls              2000         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:12:42
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Teaching methods based on lectures often result in student passivity rather than pro-activity with  ... [1307 more characters] ... epreneurship. (C) 2013 Published by Elsevier Ltd."
+Name               Estimation
+---------------  ------------
+Input tokens     262
+Output tokens      0
+Input cost [$]     3.7466e-05
+Output cost [$]    0
+Total cost [$]     3.7466e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:12:42
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Teaching methods based on lectures often result in student passivity rather than pro-activity with  ... [1307 more characters] ... epreneurship. (C) 2013 Published by Elsevier Ltd."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     256               262            0.98
+Output tokens      0                 0            0
+Input cost [$]     3.6608e-05        3.7466e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     3.6608e-05        3.7466e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.062175  0.06397677000000006  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.062175  0.06397677000000006  0.97
+Calls              2100         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:13:31
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Start-ups differ in the extent to which they introduce innovations to markets and, hence, in their  ... [1902 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name               Estimation
+---------------  ------------
+Input tokens     368
+Output tokens      0
+Input cost [$]     5.2624e-05
+Output cost [$]    0
+Total cost [$]     5.2624e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:13:31
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Start-ups differ in the extent to which they introduce innovations to markets and, hence, in their  ... [1902 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     362               368            0.98
+Output tokens      0                 0            0
+Input cost [$]     5.1766e-05        5.2624e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     5.1766e-05        5.2624e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0646413  0.06652889100000009  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0646413  0.06652889100000009  0.97
+Calls              2200          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:14:25
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The challenges of formalizing informal production units, one of the main components of economic act ... [3746 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Estimation
+---------------  -------------
+Input tokens     861
+Output tokens      0
+Input cost [$]     0.000123123
+Output cost [$]    0
+Total cost [$]     0.000123123
+--------------------------------------------------------------------------------
+
+2024-06-20 20:14:26
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The challenges of formalizing informal production units, one of the main components of economic act ... [3746 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                 Value (V)    Estimation (E)    V/E
+---------------  -------------  ----------------  -----
+Input tokens     855               861             0.99
+Output tokens      0                 0             0
+Input cost [$]     0.000122265       0.000123123   0.99
+Output cost [$]    0                 0             0
+Total cost [$]     0.000122265       0.000123123   0.99
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0671916  0.06916495300000008  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0671916  0.06916495300000008  0.97
+Calls              2300          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:15:17
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Aspects and experiences of crisis in rural Greece. Narratives of rural resilience"
+Name               Estimation
+---------------  ------------
+Input tokens       21
+Output tokens       0
+Input cost [$]      3.003e-06
+Output cost [$]     0
+Total cost [$]      3.003e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:15:18
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Aspects and experiences of crisis in rural Greece. Narratives of rural resilience"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      15                21           0.71
+Output tokens      0                 0           0
+Input cost [$]     2.145e-06         3.003e-06   0.71
+Output cost [$]    0                 0           0
+Total cost [$]     2.145e-06         3.003e-06   0.71
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0695638  0.07162298000000009  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0695638  0.07162298000000009  0.97
+Calls              2400          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:16:07
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "THE PRIVATIZATION OF THE PERSONAL .2. ATTITUDES TO THE FAMILY AND CHILD-REARING VALUES IN MODERN-DAY RUSSIA"
+Name               Estimation
+---------------  ------------
+Input tokens       37
+Output tokens       0
+Input cost [$]      5.291e-06
+Output cost [$]     0
+Total cost [$]      5.291e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:16:07
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "THE PRIVATIZATION OF THE PERSONAL .2. ATTITUDES TO THE FAMILY AND CHILD-REARING VALUES IN MODERN-DAY RUSSIA"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      31                37           0.84
+Output tokens      0                 0           0
+Input cost [$]     4.433e-06         5.291e-06   0.84
+Output cost [$]    0                 0           0
+Total cost [$]     4.433e-06         5.291e-06   0.84
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.072359  0.07450400100000007  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.072359  0.07450400100000007  0.97
+Calls              2500         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:17:01
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Sustainable Entrepreneurial Orientation in Family Firms"
+Name               Estimation
+---------------  ------------
+Input tokens       15
+Output tokens       0
+Input cost [$]      2.145e-06
+Output cost [$]     0
+Total cost [$]      2.145e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:17:02
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Sustainable Entrepreneurial Orientation in Family Firms"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens       9                15            0.6
+Output tokens      0                 0            0
+Input cost [$]     1.287e-06         2.145e-06    0.6
+Output cost [$]    0                 0            0
+Total cost [$]     1.287e-06         2.145e-06    0.6
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0756686  0.07789939300000001  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0756686  0.07789939300000001  0.97
+Calls              2600          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:26:40
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The definitions and concepts associated to business model are changing because the economic and fin ... [1638 more characters] ... c tool at value creation by cultural equipment's."
+Name               Estimation
+---------------  ------------
+Input tokens     328
+Output tokens      0
+Input cost [$]     4.6904e-05
+Output cost [$]    0
+Total cost [$]     4.6904e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:26:42
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The definitions and concepts associated to business model are changing because the economic and fin ... [1638 more characters] ... c tool at value creation by cultural equipment's."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     322               328            0.98
+Output tokens      0                 0            0
+Input cost [$]     4.6046e-05        4.6904e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     4.6046e-05        4.6904e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0781994  0.08051600700000004  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0781994  0.08051600700000004  0.97
+Calls              2700          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:27:29
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The paper aims to understand the problems of the food system, identify the value of food, and the r ... [1565 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name               Estimation
+---------------  ------------
+Input tokens     348
+Output tokens      0
+Input cost [$]     4.9764e-05
+Output cost [$]    0
+Total cost [$]     4.9764e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:27:30
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The paper aims to understand the problems of the food system, identify the value of food, and the r ... [1565 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     342               348            0.98
+Output tokens      0                 0            0
+Input cost [$]     4.8906e-05        4.9764e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     4.8906e-05        4.9764e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0806976  0.08310001700000005  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0806976  0.08310001700000005  0.97
+Calls              2800          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:28:18
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The development of renewable energy producers in rural areas creates new job opportunities for the  ... [2110 more characters] ... with other measures - energy audits and projects."
+Name               Estimation
+---------------  ------------
+Input tokens      410
+Output tokens       0
+Input cost [$]      5.863e-05
+Output cost [$]     0
+Total cost [$]      5.863e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:28:18
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The development of renewable energy producers in rural areas creates new job opportunities for the  ... [2110 more characters] ... with other measures - energy audits and projects."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     404                410           0.99
+Output tokens      0                  0           0
+Input cost [$]     5.7772e-05         5.863e-05   0.99
+Output cost [$]    0                  0           0
+Total cost [$]     5.7772e-05         5.863e-05   0.99
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0839736  0.08646180400000003  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0839736  0.08646180400000003  0.97
+Calls              2900          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:29:18
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Chilean tourism sector B Corporations: evidence of social entrepreneurship and innovation"
+Name               Estimation
+---------------  ------------
+Input tokens       21
+Output tokens       0
+Input cost [$]      3.003e-06
+Output cost [$]     0
+Total cost [$]      3.003e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:29:18
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Chilean tourism sector B Corporations: evidence of social entrepreneurship and innovation"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      15                21           0.71
+Output tokens      0                 0           0
+Input cost [$]     2.145e-06         3.003e-06   0.71
+Output cost [$]    0                 0           0
+Total cost [$]     2.145e-06         3.003e-06   0.71
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.086705  0.08927904699999996  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.086705  0.08927904699999996  0.97
+Calls              3000         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:30:30
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "In the last 5 years, the demand for new goods online increased 350 percent from $8 billion to $36 b ... [1353 more characters] ... r to own discipline impacted the overall results."
+Name               Estimation
+---------------  ------------
+Input tokens      270
+Output tokens       0
+Input cost [$]      3.861e-05
+Output cost [$]     0
+Total cost [$]      3.861e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:30:30
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "In the last 5 years, the demand for new goods online increased 350 percent from $8 billion to $36 b ... [1353 more characters] ... r to own discipline impacted the overall results."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     264                270           0.98
+Output tokens      0                  0           0
+Input cost [$]     3.7752e-05         3.861e-05   0.98
+Output cost [$]    0                  0           0
+Total cost [$]     3.7752e-05         3.861e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0899995  0.09265928099999993  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0899995  0.09265928099999993  0.97
+Calls              3100          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:31:32
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The main aim of entrepreneurial training is to promote entrepreneurial intentions and entrepreneuri ... [1866 more characters] ...  effect on EI, neither in Slovakia nor in Norway."
+Name               Estimation
+---------------  ------------
+Input tokens     358
+Output tokens      0
+Input cost [$]     5.1194e-05
+Output cost [$]    0
+Total cost [$]     5.1194e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:31:33
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The main aim of entrepreneurial training is to promote entrepreneurial intentions and entrepreneuri ... [1866 more characters] ...  effect on EI, neither in Slovakia nor in Norway."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     352               358            0.98
+Output tokens      0                 0            0
+Input cost [$]     5.0336e-05        5.1194e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     5.0336e-05        5.1194e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0930394  0.09578497499999986  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0930394  0.09578497499999986  0.97
+Calls              3200          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:32:20
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Social service providers are increasingly encouraged by their funders to help fashion the poor into ... [832 more characters] ...  care within the contemporary bureaucratic field."
+Name               Estimation
+---------------  ------------
+Input tokens     162
+Output tokens      0
+Input cost [$]     2.3166e-05
+Output cost [$]    0
+Total cost [$]     2.3166e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:32:21
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Social service providers are increasingly encouraged by their funders to help fashion the poor into ... [832 more characters] ...  care within the contemporary bureaucratic field."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     156               162            0.96
+Output tokens      0                 0            0
+Input cost [$]     2.2308e-05        2.3166e-05   0.96
+Output cost [$]    0                 0            0
+Total cost [$]     2.2308e-05        2.3166e-05   0.96
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0959707  0.09880213199999985  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0959707  0.09880213199999985  0.97
+Calls              3300          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:33:11
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The conflict between social role expectations and entrepreneurial role demands among women entrepreneurs in sub-Saharan Africa: empirical study from Ethiopia"
+Name               Estimation
+---------------  ------------
+Input tokens       28
+Output tokens       0
+Input cost [$]      4.004e-06
+Output cost [$]     0
+Total cost [$]      4.004e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:33:11
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The conflict between social role expectations and entrepreneurial role demands among women entrepreneurs in sub-Saharan Africa: empirical study from Ethiopia"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      22                28           0.79
+Output tokens      0                 0           0
+Input cost [$]     3.146e-06         4.004e-06   0.79
+Output cost [$]    0                 0           0
+Total cost [$]     3.146e-06         4.004e-06   0.79
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                  Value (V)  Estimation (E)       V/E
+-----------------  ------------  -------------------  -----
+Input costs [$]       0.0991269  0.10204408499999978  0.97
+Output costs [$]      0          0.0                  0
+Total costs [$]       0.0991269  0.10204408499999978  0.97
+Calls              3400          -                    -
+Cost per call [$]     0          -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:34:17
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "While the exponential growth of entrepreneurial ecosystem research has dramatically increased our u ... [2092 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name               Estimation
+---------------  ------------
+Input tokens     369
+Output tokens      0
+Input cost [$]     5.2767e-05
+Output cost [$]    0
+Total cost [$]     5.2767e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:34:18
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "While the exponential growth of entrepreneurial ecosystem research has dramatically increased our u ... [2092 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     363               369            0.98
+Output tokens      0                 0            0
+Input cost [$]     5.1909e-05        5.2767e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     5.1909e-05        5.2767e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.102021  0.10502391899999981  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.102021  0.10502391899999981  0.97
+Calls              3500         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:35:12
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Many tens of thousands of hectares of forested land will be disturbed and reclaimed in the surface  ... [1475 more characters] ... ommercial bison production in the oil sands area."
+Name               Estimation
+---------------  ------------
+Input tokens     307
+Output tokens      0
+Input cost [$]     4.3901e-05
+Output cost [$]    0
+Total cost [$]     4.3901e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:35:13
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Many tens of thousands of hectares of forested land will be disturbed and reclaimed in the surface  ... [1475 more characters] ... ommercial bison production in the oil sands area."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     301               307            0.98
+Output tokens      0                 0            0
+Input cost [$]     4.3043e-05        4.3901e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     4.3043e-05        4.3901e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.104824  0.10791237599999981  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.104824  0.10791237599999981  0.97
+Calls              3600         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:36:00
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The third-generation incubator is generally characterized by embedment of social networking and cus ... [2355 more characters] ...  be also embedded in social networks intensively."
+Name               Estimation
+---------------  ------------
+Input tokens     431
+Output tokens      0
+Input cost [$]     6.1633e-05
+Output cost [$]    0
+Total cost [$]     6.1633e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:36:01
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The third-generation incubator is generally characterized by embedment of social networking and cus ... [2355 more characters] ...  be also embedded in social networks intensively."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     425               431            0.99
+Output tokens      0                 0            0
+Input cost [$]     6.0775e-05        6.1633e-05   0.99
+Output cost [$]    0                 0            0
+Total cost [$]     6.0775e-05        6.1633e-05   0.99
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.108413  0.11158776199999976  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.108413  0.11158776199999976  0.97
+Calls              3700         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:37:15
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Bansal et al. 's Point piece, "Strategy's Ecological Fallacy: How strategy scholars have contribute ... [1686 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name               Estimation
+---------------  ------------
+Input tokens     353
+Output tokens      0
+Input cost [$]     5.0479e-05
+Output cost [$]    0
+Total cost [$]     5.0479e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:37:16
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Bansal et al. 's Point piece, "Strategy's Ecological Fallacy: How strategy scholars have contribute ... [1686 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     347               353            0.98
+Output tokens      0                 0            0
+Input cost [$]     4.9621e-05        5.0479e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     4.9621e-05        5.0479e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.111267  0.11452784199999969  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.111267  0.11452784199999969  0.97
+Calls              3800         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:38:15
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Alert during what? Beyond the Big O to a culturally-cognizant, process view of entrepreneurial alertness"
+Name               Estimation
+---------------  ------------
+Input tokens       28
+Output tokens       0
+Input cost [$]      4.004e-06
+Output cost [$]     0
+Total cost [$]      4.004e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:38:15
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Alert during what? Beyond the Big O to a culturally-cognizant, process view of entrepreneurial alertness"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      22                28           0.79
+Output tokens      0                 0           0
+Input cost [$]     3.146e-06         4.004e-06   0.79
+Output cost [$]    0                 0           0
+Total cost [$]     3.146e-06         4.004e-06   0.79
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.114431  0.11777680199999967  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.114431  0.11777680199999967  0.97
+Calls              3900         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:39:03
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation  ... [1624 more characters] ... h readiness is currently projected for late 2019."
+Name               Estimation
+---------------  ------------
+Input tokens     338
+Output tokens      0
+Input cost [$]     4.8334e-05
+Output cost [$]    0
+Total cost [$]     4.8334e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:39:04
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation  ... [1624 more characters] ... h readiness is currently projected for late 2019."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     332               338            0.98
+Output tokens      0                 0            0
+Input cost [$]     4.7476e-05        4.8334e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     4.7476e-05        4.8334e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.117622  0.12105421899999964  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.117622  0.12105421899999964  0.97
+Calls              4000         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:39:53
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Research Question: The purpose of this paper is to explore how leadership style and organizational  ... [3103 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name               Estimation
+---------------  ------------
+Input tokens     521
+Output tokens      0
+Input cost [$]     7.4503e-05
+Output cost [$]    0
+Total cost [$]     7.4503e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:39:53
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Research Question: The purpose of this paper is to explore how leadership style and organizational  ... [3103 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     515               521            0.99
+Output tokens      0                 0            0
+Input cost [$]     7.3645e-05        7.4503e-05   0.99
+Output cost [$]    0                 0            0
+Total cost [$]     7.3645e-05        7.4503e-05   0.99
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.121071  0.12458903599999961  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.121071  0.12458903599999961  0.97
+Calls              4100         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:40:40
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Since Murray put forward the achievement need, it has become an important content of motivation. re ... [1003 more characters] ... he research of achievement motivation into depth."
+Name               Estimation
+---------------  ------------
+Input tokens     178
+Output tokens      0
+Input cost [$]     2.5454e-05
+Output cost [$]    0
+Total cost [$]     2.5454e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:40:41
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Since Murray put forward the achievement need, it has become an important content of motivation. re ... [1003 more characters] ... he research of achievement motivation into depth."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     172               178            0.97
+Output tokens      0                 0            0
+Input cost [$]     2.4596e-05        2.5454e-05   0.97
+Output cost [$]    0                 0            0
+Total cost [$]     2.4596e-05        2.5454e-05   0.97
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.123689  0.12729216499999954  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.123689  0.12729216499999954  0.97
+Calls              4200         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:41:50
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "I CARE ABOUT NATURE, BUT ...: DISENGAGING VALUES IN ASSESSING OPPORTUNITIES THAT CAUSE HARM"
+Name               Estimation
+---------------  ------------
+Input tokens       34
+Output tokens       0
+Input cost [$]      4.862e-06
+Output cost [$]     0
+Total cost [$]      4.862e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:41:50
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "I CARE ABOUT NATURE, BUT ...: DISENGAGING VALUES IN ASSESSING OPPORTUNITIES THAT CAUSE HARM"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      28                34           0.82
+Output tokens      0                 0           0
+Input cost [$]     4.004e-06         4.862e-06   0.82
+Output cost [$]    0                 0           0
+Total cost [$]     4.004e-06         4.862e-06   0.82
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)      V/E
+-----------------  -----------  ------------------  -----
+Input costs [$]       0.127034  0.1307233069999996  0.97
+Output costs [$]      0         0.0                 0
+Total costs [$]       0.127034  0.1307233069999996  0.97
+Calls              4300         -                   -
+Cost per call [$]     0         -                   -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:42:42
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Mining is associated with unsustainable development pathways and frequently, local communities are  ... [1583 more characters] ... ividends from the nickel sector fill its coffers."
+Name               Estimation
+---------------  ------------
+Input tokens     315
+Output tokens      0
+Input cost [$]     4.5045e-05
+Output cost [$]    0
+Total cost [$]     4.5045e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:42:43
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Mining is associated with unsustainable development pathways and frequently, local communities are  ... [1583 more characters] ... ividends from the nickel sector fill its coffers."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     309               315            0.98
+Output tokens      0                 0            0
+Input cost [$]     4.4187e-05        4.5045e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     4.4187e-05        4.5045e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.129651  0.13342629299999964  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.129651  0.13342629299999964  0.97
+Calls              4400         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:43:31
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "e-Readiness and e-Commerce Success: Firm-Level Perception from Indian Organisations. GE- India "
+Name               Estimation
+---------------  ------------
+Input tokens       28
+Output tokens       0
+Input cost [$]      4.004e-06
+Output cost [$]     0
+Total cost [$]      4.004e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:43:31
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "e-Readiness and e-Commerce Success: Firm-Level Perception from Indian Organisations. GE- India "
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      22                28           0.79
+Output tokens      0                 0           0
+Input cost [$]     3.146e-06         4.004e-06   0.79
+Output cost [$]    0                 0           0
+Total cost [$]     3.146e-06         4.004e-06   0.79
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.132334  0.13619520199999974  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.132334  0.13619520199999974  0.97
+Calls              4500         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:44:20
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Purpose - Small and medium enterprises (SMEs), which main objective is to satisfy the basic needs o ... [1757 more characters] ... leads to better performance for subsistence SMEs."
+Name               Estimation
+---------------  ------------
+Input tokens     327
+Output tokens      0
+Input cost [$]     4.6761e-05
+Output cost [$]    0
+Total cost [$]     4.6761e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:44:21
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Purpose - Small and medium enterprises (SMEs), which main objective is to satisfy the basic needs o ... [1757 more characters] ... leads to better performance for subsistence SMEs."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     321               327            0.98
+Output tokens      0                 0            0
+Input cost [$]     4.5903e-05        4.6761e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     4.5903e-05        4.6761e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.135389  0.13933591099999965  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.135389  0.13933591099999965  0.97
+Calls              4600         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:45:08
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Modeling human-environment systems presents many challenges, including incorporating structure and  ... [1773 more characters] ... ANS). (C) 2011 Elsevier B.V. All rights reserved."
+Name               Estimation
+---------------  ------------
+Input tokens     344
+Output tokens      0
+Input cost [$]     4.9192e-05
+Output cost [$]    0
+Total cost [$]     4.9192e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:45:08
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Modeling human-environment systems presents many challenges, including incorporating structure and  ... [1773 more characters] ... ANS). (C) 2011 Elsevier B.V. All rights reserved."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     338               344            0.98
+Output tokens      0                 0            0
+Input cost [$]     4.8334e-05        4.9192e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     4.8334e-05        4.9192e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.138617  0.14264922099999955  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.138617  0.14264922099999955  0.97
+Calls              4700         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:46:26
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The impact of fake news on the real estate market"
+Name               Estimation
+---------------  ------------
+Input tokens       16
+Output tokens       0
+Input cost [$]      2.288e-06
+Output cost [$]     0
+Total cost [$]      2.288e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:46:26
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The impact of fake news on the real estate market"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens       10               16           0.62
+Output tokens       0                0           0
+Input cost [$]      1.43e-06         2.288e-06   0.62
+Output cost [$]     0                0           0
+Total cost [$]      1.43e-06         2.288e-06   0.62
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)      V/E
+-----------------  -----------  ------------------  -----
+Input costs [$]       0.141616  0.1457348749999997  0.97
+Output costs [$]      0         0.0                 0
+Total costs [$]       0.141616  0.1457348749999997  0.97
+Calls              4800         -                   -
+Cost per call [$]     0         -                   -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:47:17
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Purpose: The purpose of this article is to analyze the prospects of cooperation between universitie ... [2549 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name               Estimation
+---------------  ------------
+Input tokens     474
+Output tokens      0
+Input cost [$]     6.7782e-05
+Output cost [$]    0
+Total cost [$]     6.7782e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:47:18
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Purpose: The purpose of this article is to analyze the prospects of cooperation between universitie ... [2549 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     468               474            0.99
+Output tokens      0                 0            0
+Input cost [$]     6.6924e-05        6.7782e-05   0.99
+Output cost [$]    0                 0            0
+Total cost [$]     6.6924e-05        6.7782e-05   0.99
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.144523  0.14872714999999967  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.144523  0.14872714999999967  0.97
+Calls              4900         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:48:20
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Family businesses are often seen as key players in efforts to increase sustainability due to their  ... [2158 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name               Estimation
+---------------  ------------
+Input tokens     397
+Output tokens      0
+Input cost [$]     5.6771e-05
+Output cost [$]    0
+Total cost [$]     5.6771e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:48:21
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Family businesses are often seen as key players in efforts to increase sustainability due to their  ... [2158 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     391               397            0.98
+Output tokens      0                 0            0
+Input cost [$]     5.5913e-05        5.6771e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     5.5913e-05        5.6771e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)      V/E
+-----------------  -----------  ------------------  -----
+Input costs [$]       0.147105  0.1513952439999998  0.97
+Output costs [$]      0         0.0                 0
+Total costs [$]       0.147105  0.1513952439999998  0.97
+Calls              5000         -                   -
+Cost per call [$]     0         -                   -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:49:17
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Social Capital Development through the Activation of Civil Initiatives"
+Name               Estimation
+---------------  ------------
+Input tokens       16
+Output tokens       0
+Input cost [$]      2.288e-06
+Output cost [$]     0
+Total cost [$]      2.288e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:49:17
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Social Capital Development through the Activation of Civil Initiatives"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens       10               16           0.62
+Output tokens       0                0           0
+Input cost [$]      1.43e-06         2.288e-06   0.62
+Output cost [$]     0                0           0
+Total cost [$]      1.43e-06         2.288e-06   0.62
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.149929  0.15430500799999966  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.149929  0.15430500799999966  0.97
+Calls              5100         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:50:08
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Rural Sustainable Prosperity: Social Enterprise Ecosystems as a Framework for Sustainable Rural Development"
+Name               Estimation
+---------------  ------------
+Input tokens       24
+Output tokens       0
+Input cost [$]      3.432e-06
+Output cost [$]     0
+Total cost [$]      3.432e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:50:09
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Rural Sustainable Prosperity: Social Enterprise Ecosystems as a Framework for Sustainable Rural Development"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      18                24           0.75
+Output tokens      0                 0           0
+Input cost [$]     2.574e-06         3.432e-06   0.75
+Output cost [$]    0                 0           0
+Total cost [$]     2.574e-06         3.432e-06   0.75
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.152717  0.15717830699999968  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.152717  0.15717830699999968  0.97
+Calls              5200         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:50:57
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "This study seeks to better understand the legitimation processes surrounding the emergence and deve ... [3069 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name               Estimation
+---------------  ------------
+Input tokens      670
+Output tokens       0
+Input cost [$]      9.581e-05
+Output cost [$]     0
+Total cost [$]      9.581e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:50:58
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "This study seeks to better understand the legitimation processes surrounding the emergence and deve ... [3069 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     664                670           0.99
+Output tokens      0                  0           0
+Input cost [$]     9.4952e-05         9.581e-05   0.99
+Output cost [$]    0                  0           0
+Total cost [$]     9.4952e-05         9.581e-05   0.99
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)      V/E
+-----------------  -----------  ------------------  -----
+Input costs [$]       0.156066  0.1606137389999997  0.97
+Output costs [$]      0         0.0                 0
+Total costs [$]       0.156066  0.1606137389999997  0.97
+Calls              5300         -                   -
+Cost per call [$]     0         -                   -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:51:50
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The Internet of Things (IoT) is an important technological innovation that can enhance industrial c ... [2126 more characters] ... hers, according to the results of the evaluation."
+Name               Estimation
+---------------  ------------
+Input tokens     379
+Output tokens      0
+Input cost [$]     5.4197e-05
+Output cost [$]    0
+Total cost [$]     5.4197e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:51:51
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The Internet of Things (IoT) is an important technological innovation that can enhance industrial c ... [2126 more characters] ... hers, according to the results of the evaluation."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     373               379            0.98
+Output tokens      0                 0            0
+Input cost [$]     5.3339e-05        5.4197e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     5.3339e-05        5.4197e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.159216  0.16384911399999988  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.159216  0.16384911399999988  0.97
+Calls              5400         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:52:42
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Intelligent Approach Based on Group Method of Data Handling to Predict Economic Growth Through Entrepreneurship and Innovativeness with Time Series"
+Name               Estimation
+---------------  ------------
+Input tokens        30
+Output tokens        0
+Input cost [$]       4.29e-06
+Output cost [$]      0
+Total cost [$]       4.29e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:52:43
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Intelligent Approach Based on Group Method of Data Handling to Predict Economic Growth Through Entrepreneurship and Innovativeness with Time Series"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      24                 30           0.8
+Output tokens      0                  0           0
+Input cost [$]     3.432e-06          4.29e-06    0.8
+Output cost [$]    0                  0           0
+Total cost [$]     3.432e-06          4.29e-06    0.8
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.162642  0.16736119399999996  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.162642  0.16736119399999996  0.97
+Calls              5500         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:53:31
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "COMPETITIVENESS AS A DETERMINANT OF MARKET SUCCESS"
+Name               Estimation
+---------------  ------------
+Input tokens       21
+Output tokens       0
+Input cost [$]      3.003e-06
+Output cost [$]     0
+Total cost [$]      3.003e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:53:32
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "COMPETITIVENESS AS A DETERMINANT OF MARKET SUCCESS"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      15                21           0.71
+Output tokens      0                 0           0
+Input cost [$]     2.145e-06         3.003e-06   0.71
+Output cost [$]    0                 0           0
+Total cost [$]     2.145e-06         3.003e-06   0.71
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]        0.16528  0.17008520099999996  0.97
+Output costs [$]       0        0.0                  0
+Total costs [$]        0.16528  0.17008520099999996  0.97
+Calls               5600        -                    -
+Cost per call [$]      0        -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:54:22
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The financial performance of the mining industry, measured by return on equity and capital employed ... [2277 more characters] ... dies are developed to supply an expanding market."
+Name               Estimation
+---------------  ------------
+Input tokens      430
+Output tokens       0
+Input cost [$]      6.149e-05
+Output cost [$]     0
+Total cost [$]      6.149e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:54:23
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The financial performance of the mining industry, measured by return on equity and capital employed ... [2277 more characters] ... dies are developed to supply an expanding market."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     424                430           0.99
+Output tokens      0                  0           0
+Input cost [$]     6.0632e-05         6.149e-05   0.99
+Output cost [$]    0                  0           0
+Total cost [$]     6.0632e-05         6.149e-05   0.99
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.168055  0.17294548699999998  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.168055  0.17294548699999998  0.97
+Calls              5700         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:55:24
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "A methodology of evaluating sustainability index of a biomass processing enterprise: a case study of native cow dung-urine biorefinery"
+Name               Estimation
+---------------  ------------
+Input tokens       32
+Output tokens       0
+Input cost [$]      4.576e-06
+Output cost [$]     0
+Total cost [$]      4.576e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:55:24
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "A methodology of evaluating sustainability index of a biomass processing enterprise: a case study of native cow dung-urine biorefinery"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      26                32           0.81
+Output tokens      0                 0           0
+Input cost [$]     3.718e-06         4.576e-06   0.81
+Output cost [$]    0                 0           0
+Total cost [$]     3.718e-06         4.576e-06   0.81
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.170922  0.17589829400000004  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.170922  0.17589829400000004  0.97
+Calls              5800         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:56:31
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Exploring Entrepreneurs' Trust in Mobile Social Networking Services"
+Name               Estimation
+---------------  ------------
+Input tokens       18
+Output tokens       0
+Input cost [$]      2.574e-06
+Output cost [$]     0
+Total cost [$]      2.574e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 20:56:31
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Exploring Entrepreneurs' Trust in Mobile Social Networking Services"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      12                18           0.67
+Output tokens      0                 0           0
+Input cost [$]     1.716e-06         2.574e-06   0.67
+Output cost [$]    0                 0           0
+Total cost [$]     1.716e-06         2.574e-06   0.67
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]        0.17418  0.17924220600000007  0.97
+Output costs [$]       0        0.0                  0
+Total costs [$]        0.17418  0.17924220600000007  0.97
+Calls               5900        -                    -
+Cost per call [$]      0        -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:57:31
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Business failure prediction is a prominent issue in research and practice. However, the relation be ... [1155 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name               Estimation
+---------------  ------------
+Input tokens     231
+Output tokens      0
+Input cost [$]     3.3033e-05
+Output cost [$]    0
+Total cost [$]     3.3033e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:57:32
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Business failure prediction is a prominent issue in research and practice. However, the relation be ... [1155 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     225               231            0.97
+Output tokens      0                 0            0
+Input cost [$]     3.2175e-05        3.3033e-05   0.97
+Output cost [$]    0                 0            0
+Total cost [$]     3.2175e-05        3.3033e-05   0.97
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.177131  0.18227924000000015  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.177131  0.18227924000000015  0.97
+Calls              6000         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:58:21
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Examining an increasingly prevalent but under-researched phenomenon, cross-border venture capital i ... [1797 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name               Estimation
+---------------  ------------
+Input tokens     333
+Output tokens      0
+Input cost [$]     4.7619e-05
+Output cost [$]    0
+Total cost [$]     4.7619e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:58:22
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Examining an increasingly prevalent but under-researched phenomenon, cross-border venture capital i ... [1797 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     327               333            0.98
+Output tokens      0                 0            0
+Input cost [$]     4.6761e-05        4.7619e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     4.6761e-05        4.7619e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.179819  0.18505243900000024  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.179819  0.18505243900000024  0.97
+Calls              6100         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 20:59:12
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Purpose: The purpose of this paper is to propose a new integrated model that combines the concepts  ... [3307 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name               Estimation
+---------------  ------------
+Input tokens     576
+Output tokens      0
+Input cost [$]     8.2368e-05
+Output cost [$]    0
+Total cost [$]     8.2368e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 20:59:12
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Purpose: The purpose of this paper is to propose a new integrated model that combines the concepts  ... [3307 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens     570              576            0.99
+Output tokens      0                0            0
+Input cost [$]     8.151e-05        8.2368e-05   0.99
+Output cost [$]    0                0            0
+Total cost [$]     8.151e-05        8.2368e-05   0.99
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)      V/E
+-----------------  -----------  ------------------  -----
+Input costs [$]       0.183315  0.1886345890000003  0.97
+Output costs [$]      0         0.0                 0
+Total costs [$]       0.183315  0.1886345890000003  0.97
+Calls              6200         -                   -
+Cost per call [$]     0         -                   -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:00:06
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The present study introduces fear of failure as a responsive avoidance motive to the entrepreneursh ... [1282 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name               Estimation
+---------------  ------------
+Input tokens     249
+Output tokens      0
+Input cost [$]     3.5607e-05
+Output cost [$]    0
+Total cost [$]     3.5607e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 21:00:07
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The present study introduces fear of failure as a responsive avoidance motive to the entrepreneursh ... [1282 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     243               249            0.98
+Output tokens      0                 0            0
+Input cost [$]     3.4749e-05        3.5607e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     3.4749e-05        3.5607e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.186424  0.19182949500000035  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.186424  0.19182949500000035  0.97
+Calls              6300         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:01:05
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "This study aimed to identify the relationship between strategic planning and the performance of NGO ... [1784 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name               Estimation
+---------------  ------------
+Input tokens     342
+Output tokens      0
+Input cost [$]     4.8906e-05
+Output cost [$]    0
+Total cost [$]     4.8906e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 21:01:05
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "This study aimed to identify the relationship between strategic planning and the performance of NGO ... [1784 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     336               342            0.98
+Output tokens      0                 0            0
+Input cost [$]     4.8048e-05        4.8906e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     4.8048e-05        4.8906e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.190031  0.19552218400000043  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.190031  0.19552218400000043  0.97
+Calls              6400         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:01:55
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Entrepreneurship is currently considered as a tool for states to promote economic, social, producti ... [3918 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                Estimation
+---------------  -------------
+Input tokens     819
+Output tokens      0
+Input cost [$]     0.000117117
+Output cost [$]    0
+Total cost [$]     0.000117117
+--------------------------------------------------------------------------------
+
+2024-06-20 21:01:56
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Entrepreneurship is currently considered as a tool for states to promote economic, social, producti ... [3918 more characters] ... l abstract. (Copyright applies to all Abstracts.)"
+Name                 Value (V)    Estimation (E)    V/E
+---------------  -------------  ----------------  -----
+Input tokens     813               819             0.99
+Output tokens      0                 0             0
+Input cost [$]     0.000116259       0.000117117   0.99
+Output cost [$]    0                 0             0
+Total cost [$]     0.000116259       0.000117117   0.99
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.193465  0.19904170000000052  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.193465  0.19904170000000052  0.97
+Calls              6500         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:02:44
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Woody invasive alien plants (IAPs) are a threat to South Africa's water resources, biodiversity and ... [1249 more characters] ...  in environmental externalities and job creation."
+Name               Estimation
+---------------  ------------
+Input tokens     265
+Output tokens      0
+Input cost [$]     3.7895e-05
+Output cost [$]    0
+Total cost [$]     3.7895e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 21:02:45
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Woody invasive alien plants (IAPs) are a threat to South Africa's water resources, biodiversity and ... [1249 more characters] ...  in environmental externalities and job creation."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     259               265            0.98
+Output tokens      0                 0            0
+Input cost [$]     3.7037e-05        3.7895e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     3.7037e-05        3.7895e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.196117  0.20178000700000054  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.196117  0.20178000700000054  0.97
+Calls              6600         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:03:35
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Mercury (Hg) is a complex and multifaceted global pollutant. Artisanal and small-scale gold mining  ... [1384 more characters] ... s to protect these communities from Hg poisoning."
+Name               Estimation
+---------------  ------------
+Input tokens     354
+Output tokens      0
+Input cost [$]     5.0622e-05
+Output cost [$]    0
+Total cost [$]     5.0622e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 21:03:36
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Mercury (Hg) is a complex and multifaceted global pollutant. Artisanal and small-scale gold mining  ... [1384 more characters] ... s to protect these communities from Hg poisoning."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     348               354            0.98
+Output tokens      0                 0            0
+Input cost [$]     4.9764e-05        5.0622e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     4.9764e-05        5.0622e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)      V/E
+-----------------  -----------  ------------------  -----
+Input costs [$]       0.199285  0.2050339720000005  0.97
+Output costs [$]      0         0.0                 0
+Total costs [$]       0.199285  0.2050339720000005  0.97
+Calls              6700         -                   -
+Cost per call [$]     0         -                   -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:04:25
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Live streaming and video-on demand are increasing at a rapid pace. Global Over-the-top (OTT) video  ... [1499 more characters] ... sion across the globe from San Jose to Hong Kong."
+Name               Estimation
+---------------  ------------
+Input tokens     324
+Output tokens      0
+Input cost [$]     4.6332e-05
+Output cost [$]    0
+Total cost [$]     4.6332e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 21:04:25
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Live streaming and video-on demand are increasing at a rapid pace. Global Over-the-top (OTT) video  ... [1499 more characters] ... sion across the globe from San Jose to Hong Kong."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     318               324            0.98
+Output tokens      0                 0            0
+Input cost [$]     4.5474e-05        4.6332e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     4.5474e-05        4.6332e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]        0.20283  0.20866474200000049  0.97
+Output costs [$]       0        0.0                  0
+Total costs [$]        0.20283  0.20866474200000049  0.97
+Calls               6800        -                    -
+Cost per call [$]      0        -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:05:14
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "UNDERSTANDING OF CORPORATE SOCIAL RESPONSIBILITY IN LARGE COMPANIES IN SLOVAKIA WITHIN THE CONTEXT OF A SUSTAINABLE DEVELOPMENT"
+Name               Estimation
+---------------  ------------
+Input tokens       38
+Output tokens       0
+Input cost [$]      5.434e-06
+Output cost [$]     0
+Total cost [$]      5.434e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 21:05:14
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "UNDERSTANDING OF CORPORATE SOCIAL RESPONSIBILITY IN LARGE COMPANIES IN SLOVAKIA WITHIN THE CONTEXT OF A SUSTAINABLE DEVELOPMENT"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      32                38           0.84
+Output tokens      0                 0           0
+Input cost [$]     4.576e-06         5.434e-06   0.84
+Output cost [$]    0                 0           0
+Total cost [$]     4.576e-06         5.434e-06   0.84
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)      V/E
+-----------------  -----------  ------------------  -----
+Input costs [$]       0.205294  0.2112141460000005  0.97
+Output costs [$]      0         0.0                 0
+Total costs [$]       0.205294  0.2112141460000005  0.97
+Calls              6900         -                   -
+Cost per call [$]     0         -                   -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:06:05
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Collaborative research between clinicians and researchers: a multiple case study of implementation"
+Name               Estimation
+---------------  ------------
+Input tokens       21
+Output tokens       0
+Input cost [$]      3.003e-06
+Output cost [$]     0
+Total cost [$]      3.003e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 21:06:06
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Collaborative research between clinicians and researchers: a multiple case study of implementation"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      15                21           0.71
+Output tokens      0                 0           0
+Input cost [$]     2.145e-06         3.003e-06   0.71
+Output cost [$]    0                 0           0
+Total cost [$]     2.145e-06         3.003e-06   0.71
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)      V/E
+-----------------  -----------  ------------------  -----
+Input costs [$]       0.208507  0.2145132990000006  0.97
+Output costs [$]      0         0.0                 0
+Total costs [$]       0.208507  0.2145132990000006  0.97
+Calls              7000         -                   -
+Cost per call [$]     0         -                   -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:06:56
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Responding to change and customer value improvement: Pragmatic advice to banks. GE- Zimbabwe "
+Name               Estimation
+---------------  ------------
+Input tokens       26
+Output tokens       0
+Input cost [$]      3.718e-06
+Output cost [$]     0
+Total cost [$]      3.718e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 21:06:56
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Responding to change and customer value improvement: Pragmatic advice to banks. GE- Zimbabwe "
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens       20               26           0.77
+Output tokens       0                0           0
+Input cost [$]      2.86e-06         3.718e-06   0.77
+Output cost [$]     0                0           0
+Total cost [$]      2.86e-06         3.718e-06   0.77
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.211438  0.21752959800000068  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.211438  0.21752959800000068  0.97
+Calls              7100         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:07:46
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Antecedents of sustainability‐oriented entrepreneurial intentions: A comprehensive model and empirical evidence. GE- India "
+Name               Estimation
+---------------  ------------
+Input tokens       27
+Output tokens       0
+Input cost [$]      3.861e-06
+Output cost [$]     0
+Total cost [$]      3.861e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 21:07:46
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Antecedents of sustainability‐oriented entrepreneurial intentions: A comprehensive model and empirical evidence. GE- India "
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      21                27           0.78
+Output tokens      0                 0           0
+Input cost [$]     3.003e-06         3.861e-06   0.78
+Output cost [$]    0                 0           0
+Total cost [$]     3.003e-06         3.861e-06   0.78
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]         0.2148  0.22097775700000077  0.97
+Output costs [$]        0       0.0                  0
+Total costs [$]         0.2148  0.22097775700000077  0.97
+Calls                7200       -                    -
+Cost per call [$]       0       -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:08:35
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "SMEs sustainability: The role of human resource management, corporate social responsibility and financial management. GE- Slovakia GE- Poland GE- Czech Republic "
+Name               Estimation
+---------------  ------------
+Input tokens       36
+Output tokens       0
+Input cost [$]      5.148e-06
+Output cost [$]     0
+Total cost [$]      5.148e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 21:08:35
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "SMEs sustainability: The role of human resource management, corporate social responsibility and financial management. GE- Slovakia GE- Poland GE- Czech Republic "
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens       30               36           0.83
+Output tokens       0                0           0
+Input cost [$]      4.29e-06         5.148e-06   0.83
+Output cost [$]     0                0           0
+Total cost [$]      4.29e-06         5.148e-06   0.83
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]         0.2176  0.22386306800000072  0.97
+Output costs [$]        0       0.0                  0
+Total costs [$]         0.2176  0.22386306800000072  0.97
+Calls                7300       -                    -
+Cost per call [$]       0       -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:09:24
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Purpose - The purpose of this paper is to evaluate career impact of entrepreneurship education ( EE ... [2356 more characters] ... f-employment and creating enterprising employees."
+Name               Estimation
+---------------  ------------
+Input tokens     428
+Output tokens      0
+Input cost [$]     6.1204e-05
+Output cost [$]    0
+Total cost [$]     6.1204e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 21:09:25
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Purpose - The purpose of this paper is to evaluate career impact of entrepreneurship education ( EE ... [2356 more characters] ... f-employment and creating enterprising employees."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     422               428            0.99
+Output tokens      0                 0            0
+Input cost [$]     6.0346e-05        6.1204e-05   0.99
+Output cost [$]    0                 0            0
+Total cost [$]     6.0346e-05        6.1204e-05   0.99
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]        0.22092  0.22726947100000086  0.97
+Output costs [$]       0        0.0                  0
+Total costs [$]        0.22092  0.22726947100000086  0.97
+Calls               7400        -                    -
+Cost per call [$]      0        -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:10:14
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Stakeholders Matter: How Social Enterprises Address Mission Drift. IL- 2 Diagrams, 5 Charts GE- Italy "
+Name               Estimation
+---------------  ------------
+Input tokens       33
+Output tokens       0
+Input cost [$]      4.719e-06
+Output cost [$]     0
+Total cost [$]      4.719e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 21:10:15
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Stakeholders Matter: How Social Enterprises Address Mission Drift. IL- 2 Diagrams, 5 Charts GE- Italy "
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      27                33           0.82
+Output tokens      0                 0           0
+Input cost [$]     3.861e-06         4.719e-06   0.82
+Output cost [$]    0                 0           0
+Total cost [$]     3.861e-06         4.719e-06   0.82
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.223451  0.22988608500000107  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.223451  0.22988608500000107  0.97
+Calls              7500         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:11:03
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Purpose This research aims at the theory of planned behavior (TPB) and the global entrepreneurship  ... [1212 more characters] ... able information for incubators and accelerators."
+Name               Estimation
+---------------  ------------
+Input tokens     257
+Output tokens      0
+Input cost [$]     3.6751e-05
+Output cost [$]    0
+Total cost [$]     3.6751e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 21:11:03
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Purpose This research aims at the theory of planned behavior (TPB) and the global entrepreneurship  ... [1212 more characters] ... able information for incubators and accelerators."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     251               257            0.98
+Output tokens      0                 0            0
+Input cost [$]     3.5893e-05        3.6751e-05   0.98
+Output cost [$]    0                 0            0
+Total cost [$]     3.5893e-05        3.6751e-05   0.98
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.226834  0.23335483600000112  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.226834  0.23335483600000112  0.97
+Calls              7600         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:11:54
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Purpose The purpose of this paper is to determine the prevalence of economic violence against women ... [2468 more characters] ... all business in a Latin American emerging market."
+Name               Estimation
+---------------  ------------
+Input tokens     471
+Output tokens      0
+Input cost [$]     6.7353e-05
+Output cost [$]    0
+Total cost [$]     6.7353e-05
+--------------------------------------------------------------------------------
+
+2024-06-20 21:11:54
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Purpose The purpose of this paper is to determine the prevalence of economic violence against women ... [2468 more characters] ... all business in a Latin American emerging market."
+Name                Value (V)    Estimation (E)    V/E
+---------------  ------------  ----------------  -----
+Input tokens     465               471            0.99
+Output tokens      0                 0            0
+Input cost [$]     6.6495e-05        6.7353e-05   0.99
+Output cost [$]    0                 0            0
+Total cost [$]     6.6495e-05        6.7353e-05   0.99
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)     V/E
+-----------------  -----------  -----------------  -----
+Input costs [$]       0.230028  0.236634827000001  0.97
+Output costs [$]      0         0.0                0
+Total costs [$]       0.230028  0.236634827000001  0.97
+Calls              7700         -                  -
+Cost per call [$]     0         -                  -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:12:45
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Die Evolution des Purpose: Die Entwicklung des (höheren) Unternehmenszwecks im Zeitverlauf. LA- German LK- Language of Keywords: English; German "
+Name               Estimation
+---------------  ------------
+Input tokens       45
+Output tokens       0
+Input cost [$]      6.435e-06
+Output cost [$]     0
+Total cost [$]      6.435e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 21:12:45
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Die Evolution des Purpose: Die Entwicklung des (höheren) Unternehmenszwecks im Zeitverlauf. LA- German LK- Language of Keywords: English; German "
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      39                45           0.87
+Output tokens      0                 0           0
+Input cost [$]     5.577e-06         6.435e-06   0.87
+Output cost [$]    0                 0           0
+Total cost [$]     5.577e-06         6.435e-06   0.87
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.232816  0.23950798300000095  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.232816  0.23950798300000095  0.97
+Calls              7800         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:13:32
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "Observation of cryogenically cooled ice particles inside the high-speed water jet"
+Name               Estimation
+---------------  ------------
+Input tokens       21
+Output tokens       0
+Input cost [$]      3.003e-06
+Output cost [$]     0
+Total cost [$]      3.003e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 21:13:33
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "Observation of cryogenically cooled ice particles inside the high-speed water jet"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      15                21           0.71
+Output tokens      0                 0           0
+Input cost [$]     2.145e-06         3.003e-06   0.71
+Output cost [$]    0                 0           0
+Total cost [$]     2.145e-06         3.003e-06   0.71
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)      V/E
+-----------------  -----------  ------------------  -----
+Input costs [$]       0.235524  0.2423024890000011  0.97
+Output costs [$]      0         0.0                 0
+Total costs [$]       0.235524  0.2423024890000011  0.97
+Calls              7900         -                   -
+Cost per call [$]     0         -                   -
+--------------------------------------------------------------------------------
+
+2024-06-20 21:14:02
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "The Role of Employers' Networks in the Dissemination of Skill Management in France"
+Name               Estimation
+---------------  ------------
+Input tokens       23
+Output tokens       0
+Input cost [$]      3.289e-06
+Output cost [$]     0
+Total cost [$]      3.289e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 21:14:02
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "The Role of Employers' Networks in the Dissemination of Skill Management in France"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens      17                23           0.74
+Output tokens      0                 0           0
+Input cost [$]     2.431e-06         3.289e-06   0.74
+Output cost [$]    0                 0           0
+Total cost [$]     2.431e-06         3.289e-06   0.74
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]       0.237393  0.24422326500000122  0.97
+Output costs [$]      0         0.0                  0
+Total costs [$]       0.237393  0.24422326500000122  0.97
+Calls              7961         -                    -
+Cost per call [$]     0         -                    -
+--------------------------------------------------------------------------------
+
+
+Exceptions: 0 out of 7961 API calls.
+
+--------------------------------------------------------------------------------
+
+2024-06-20 22:07:44
+Function: batch_api_call_
+--------------------------------------------------------------------------------
+
+Estimating resources for the API calls...
+
+
+Cost estimate of $0.0 is within the defined limit for the batch of $0.5.
+
+2024-06-20 22:07:57
+Function: estimate_resources_
+--------------------------------------------------------------------------------
+
+ESTIMATED RESOURCES - SINGLE API CALL
+Text: "monitoring"
+Name               Estimation
+---------------  ------------
+Input tokens        8
+Output tokens       0
+Input cost [$]      1.144e-06
+Output cost [$]     0
+Total cost [$]      1.144e-06
+--------------------------------------------------------------------------------
+
+2024-06-20 22:07:57
+Function: calculate_resources_
+--------------------------------------------------------------------------------
+
+RESOURCES - SINGLE API CALL
+Text: "monitoring"
+Name               Value (V)    Estimation (E)    V/E
+---------------  -----------  ----------------  -----
+Input tokens        2                8           0.25
+Output tokens       0                0           0
+Input cost [$]      2.86e-07         1.144e-06   0.25
+Output cost [$]     0                0           0
+Total cost [$]      2.86e-07         1.144e-06   0.25
+
+RESOURCES - AGGREGATION SINCE INSTANCE WAS CREATED
+Name                 Value (V)  Estimation (E)       V/E
+-----------------  -----------  -------------------  -----
+Input costs [$]         0.2374  0.24424385700000129  0.97
+Output costs [$]        0       0.0                  0
+Total costs [$]         0.2374  0.24424385700000129  0.97
+Calls                7976       -                    -
+Cost per call [$]       0       -                    -
+--------------------------------------------------------------------------------
+
+
+Exceptions: 0 out of 15 API calls.
+
+--------------------------------------------------------------------------------
+
+2024-06-21 00:00:07
+Function: batch_api_call_
+--------------------------------------------------------------------------------
+
+Estimating resources for the API calls...
+
+
+Cost estimate of $0 is within the defined limit for the batch of $0.5.
+
+
+Exceptions: 0 out of 0 API calls.
+
+--------------------------------------------------------------------------------
+
