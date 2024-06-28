@@ -1,0 +1,27 @@
+Log file created at 2024-06-28 07:44:25.
+
+2024-06-28 07:44:25
+Function: print_init
+--------------------------------------------------------------------------------
+OpenAIClient created at 2024-06-28 07:44:25 with the following parameters:
+Model: text-embedding-3-large
+Estimation mode: True
+Output estimate: 0
+Safety factor: 1.1
+Temperature: 0.7
+Cost limit single call: US$ 0.5
+--------------------------------------------------------------------------------
+
+2024-06-28 07:44:33
+Function: batch_api_call_
+--------------------------------------------------------------------------------
+
+Estimating resources for the API calls...
+
+
+Batch API call aborted.
+
+Cost estimate of $0.6452 exceeds the defined limit for the batch of $0.5.
+
+--------------------------------------------------------------------------------
+

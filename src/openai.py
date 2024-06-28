@@ -468,7 +468,7 @@ class CustomOpenAIClient():
             # Abort if the total costs are greater than the cost limit for a single call
             if total_costs_estimate > cost_limit_batch:
                 print(f'\nBatch API call aborted.\n\nCost estimate of ${total_costs_estimate} exceeds the defined limit for the batch of ${cost_limit_batch}.\n')
-                return None
+                return None, None
             else:
                 print(f'\nCost estimate of ${total_costs_estimate} is within the defined limit for the batch of ${cost_limit_batch}.\n')
             
