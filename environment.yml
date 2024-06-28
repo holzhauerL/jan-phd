@@ -4,3 +4,11 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
+  - ipykernel
+  - tabulate
+  - tqdm
+  - tiktoken
+  - openai
+  - pandas
+  - openpyxl
+  - seaborn
